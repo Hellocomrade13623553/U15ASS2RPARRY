@@ -1,20 +1,10 @@
-<!DOCTYPE html>
+body {  
 
-<html lang="en">
-  <head>
+    background-color: black; 
+    color: white;  
+    font-family: Arial, sans-serif; 
+    padding: 20px;
+ 
+}
 
- <link href="css/style.css" rel="stylesheet">
-
-<script src="scripts/javascript.js"></script>
-
-   <title>My First WebPage</title>
-
-  </head>
-
-     <body>
-          <h1>Home Page</h1>
-                    <p>This is the HomePage</p>
-<button onclick="sayHi()">Click Me</button>
-     </body>
-</html> 
 
